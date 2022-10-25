@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Silas Albrecht
+- 🌱 I’m currently learning HTML, CSS and Javascript
